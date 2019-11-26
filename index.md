@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Anu Joshi 
 
-You can use the [editor on GitHub](https://github.com/anujoshi222/Cover-letter/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello Sir/Madam,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my search for new creative endeavors, I was thrilled to find the QA ENGINEER opening with your company. As an ambitious professional with quality control experience, I believe that I would make an excellent addition to your team.
 
-### Markdown
+Identifying improved approaches and enhanced solutions to business challenges are activities that drive and inspire me. Exploration, pursuit, and motivation are my framework for success. I believe that fresh perspectives and trying new techniques help businesses evolve and grow. Like your company, my goal is to be on the cutting-edge of industry advancements.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contributions to my former Test Automation Engineer role, and this field at-large, revolve around my essential reporting and data analysis talents. I have developed strong problem-solving abilities and fostered a reputation as a key contributor through planning and communication skills. As a team player, I am collaborative with peers, searching for ways to integrate valuable insights. Through these qualities, I have confidence in my ability to facilitate positive change and collective effort.
 
-```markdown
-Syntax highlighted code block
+For a greater illustration of my background and qualifications, please review my enclosed resume. I am eager to speak with you about this opportunity and thoroughly appreciate your consideration.
+Regards Anu
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anujoshi222/Cover-letter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact me
+cell: +1 778-863-7959
